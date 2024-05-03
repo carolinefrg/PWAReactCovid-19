@@ -1,2 +1,2 @@
-# PWAReactCovid19
-Projeto PWA com React para monitorar os dados da Covid19
+# projeto PWA ReactJS Covid-19
+Projeto PWA com ReactJS para monitorar os dados da Covid-19
